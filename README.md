@@ -7,4 +7,4 @@
 
 ## To run
 
-Run script.py. Will take around 15 minutes to download each file.
+Run script.py. Will take around 15 minutes to download all the files.
